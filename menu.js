@@ -1,4 +1,6 @@
 MENU PRINCIPAL
---------------
+-------------
 BUSCAR
 ACCEDER
+footer2
+
