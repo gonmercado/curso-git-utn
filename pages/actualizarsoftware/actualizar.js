@@ -1,0 +1,1 @@
+actualizar software ahora
